@@ -1,4 +1,47 @@
+.section-two iframe{
+    background-color: blueviolet;
+}
+#code-para{
+    color: blue;
+    size: 70px;
+}
+
+
+.uppercase{
+font-size: 60px;
+}
+
+.section-one{
+color: brown;
+font-size: large;
+background-color: rgb(42, 221, 224);
+letter-spacing: normal;
+
+}
+
+/*p{
+    color: darkorchid;
+    font-size: initial;
+  }*/
+
+
+header{
+    color: aqua;
+    font-size: x-large;
+    color: aquamarine;
+    background-color: brown;
+   
+  }
+
 .first-heading{
     color: beige;
     font-size: 60px;
 }
+article{
+    background-color: beige;
+    padding: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  
